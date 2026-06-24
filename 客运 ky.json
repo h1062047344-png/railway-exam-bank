@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "KY1001",
+      "type": "single",
+      "category": "ky",
+      "title": "重点旅客服务对象包括？",
+      "optionA": "老幼病残孕",
+      "optionB": "所有旅客",
+      "optionC": "工作人员",
+      "optionD": "货物",
+      "answer": "A",
+      "explanation": "重点旅客包括老幼病残孕等。"
+    }
+  ]
+}
