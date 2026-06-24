@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "ZS1001",
+      "type": "single",
+      "category": "zsx",
+      "title": "车站值班员主要负责什么？",
+      "optionA": "组织接发列车",
+      "optionB": "维修设备",
+      "optionC": "清扫站台",
+      "optionD": "售票",
+      "answer": "A",
+      "explanation": "车站值班员负责组织接发列车作业。"
+    }
+  ]
+}
