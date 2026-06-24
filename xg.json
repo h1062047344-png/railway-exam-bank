@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "XG1001",
+      "type": "single",
+      "category": "xg",
+      "title": "行车组织必须坚持的原则是？",
+      "optionA": "集中指挥、逐级负责",
+      "optionB": "自由调度",
+      "optionC": "各自为政",
+      "optionD": "随机操作",
+      "answer": "A",
+      "explanation": "行车组织必须集中指挥、逐级负责。"
+    }
+  ]
+}
