@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "name": "tg",
+      "title": "技规",
+      "version": 1,
+      "file": "tg.json"
+    },
+    {
+      "name": "xg",
+      "title": "行规",
+      "version": 1,
+      "file": "xg.json"
+    },
+    {
+      "name": "dc",
+      "title": "调车",
+      "version": 1,
+      "file": "dc.json"
+    },
+    {
+      "name": "ky",
+      "title": "客运",
+      "version": 1,
+      "file": "ky.json"
+    }
+  ]
+}
